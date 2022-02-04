@@ -5,11 +5,11 @@ I also performed exploratory data analysis.
 
 Data Modelling approach
 
-Check for missing values 
+ Check for missing values 
 
-Fill missing value
+ Fill missing value
 
-Data type conversions (String to Integer)
+ Data type conversions (String to Integer)
 
  Remove outlier using graphs
 
